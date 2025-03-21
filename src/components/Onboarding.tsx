@@ -128,7 +128,7 @@ export function Onboarding({ onDone }: Props): React.ReactNode {
               lines: [
                 'function greet() {',
                 '-  console.log("Hello, World!");',
-                '+  console.log("Hello, anon!");',
+                '+  console.log("Hello, Gianni!");',
                 '}',
               ],
             }}

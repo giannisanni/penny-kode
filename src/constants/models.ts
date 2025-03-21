@@ -775,6 +775,9 @@ export default {
   ],
   "ollama": [
 
+  ],
+  "copilot-api": [
+
   ]
 }
 
@@ -816,5 +819,9 @@ export const providers = {
   "groq": {
     "name": "Groq",
     "baseURL": "https://api.groq.com/openai/v1"
+  },
+  "copilot-api": {
+    "name": "Copilot API",
+    "baseURL": "http://100.92.237.90:4142"
   }
 }
